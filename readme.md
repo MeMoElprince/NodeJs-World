@@ -3,7 +3,7 @@
 
 ## Hello NodeJs
 
-<p><b> I've gone a little deep into backend development with NodeJs, Express and mongoDB, so this documentation will cover some of my experience and knowledge in the backend in general and specificly in NodeJs </b></p>
+<p><b> I've diven a little deep into backend development with NodeJs, Express and mongoDB, so this documentation will cover some of my experience and knowledge in the backend in general and specificly in NodeJs </b></p>
 
 <hr>
 
